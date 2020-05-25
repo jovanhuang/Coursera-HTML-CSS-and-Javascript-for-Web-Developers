@@ -1,4 +1,4 @@
-# MenuPage
+# Menu Page
 A coding assignment: Create a mini menu that fulfills the following guidelines.
 
 **To view completed work, click on the link below**  
