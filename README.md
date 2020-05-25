@@ -12,9 +12,11 @@ You must implement the following breakpoints that will be considered desktop, ta
 
 Your site is very simple. 
 
-It consists of a page heading and 3 sections (all in one row in the desktop view). Each section contains some text. You can make it dummy text/"lorem ipsum", it doesn't matter. 
+* It consists of a page heading and 3 sections (all in one row in the desktop view). Each section contains some text. You can make it dummy text/"lorem ipsum", it doesn't matter. 
 
-How the sections are laid out on the screen depends on the width of the browser window. (**Hint: use media queries.**)
+* How the sections are laid out on the screen depends on the width of the browser window. (**Hint: use media queries.**)
+
+* You are NOT allowed to use any CSS (or Javascript) framework for this assignment, including Twitter Bootstrap CSS Framework. No framework CSS files should even be referenced in your index.html, even if you are not using them.
 
 ## Layout: 
 * In the desktop view (992px and above), each of the 3 sections should take up equal amount of space on the screen. As you make the browser window wider or narrower, each section should become wider or narrower. (Hint: use percentages to define width and use the 'float' property.) 
