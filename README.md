@@ -1,7 +1,7 @@
 # MenuPage
 A coding assignment: Create a mini menu that fulfills the following guidelines.
 
-* To view completed work, click on the link below *  
+**To view completed work, click on the link below**  
 https://jovanhuang.github.io/MenuPage/module2-solution/
 
 ## Guidelines:
