@@ -1,5 +1,8 @@
-# MenuPage
-A coding assignment: Create a mini menu that fulfills the following guidelines.
+# Menu Page
+A coding assignment: Create a mini menu webpage that fulfills the following guidelines using **HTML** and **CSS**.
+
+**To view completed work, click on the link below**  
+https://jovanhuang.github.io/Menu-Page/module2-solution/
 
 ## Guidelines:
 You must implement the following breakpoints that will be considered desktop, tablet, and mobile. 
