@@ -46,3 +46,8 @@ Coding assignment 2: https://jovanhuang.github.io/Menu-Page/module3-solution/
 >
 >* Depending on the color you choose, you may want to change the color of the text so it can be easy to read. Set a black border on both >the section and section title region that is 1px thick. 
 >
+## Guidelines for Coding Assignment 2:
+>**Navbar:** 
+>Create a navbar that scrolls away together with the page (the navbar should become invisible and is not fixed to the top when you scroll the page down). The navbar should have a company name (i.e., navbar-brand class) called "Food, LLC" that is aligned to the left side of the navbar. (See https://getbootstrap.com/docs/3.3/components/#navbar. Make the browser window narrower to see the mobile menu button appear in the first example shown at the provided link.)
+
+>For desktop and tablet view, the navbar should not contain anything else. No other buttons should be visible. (Hint: use 'visible-xs' class.)
