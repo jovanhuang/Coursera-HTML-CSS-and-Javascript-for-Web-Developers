@@ -1,10 +1,9 @@
 # Menu Page
-A coding assignment: Create a mini menu webpage that is responsive to different devices using **HTML** and **CSS**.
+Coding assignment 1: https://jovanhuang.github.io/Menu-Page/module2-solution/
 
-**To view completed work, click on the link below**  
-https://jovanhuang.github.io/Menu-Page/module2-solution/
+Coding assignment 2: https://jovanhuang.github.io/Menu-Page/module3-solution/
 
-## Guidelines:
+## Guidelines for Coding Assignment 1:
 You must implement the following breakpoints that will be considered desktop, tablet, and mobile. 
 
 1. The browser should display a desktop version of the site when the width of the browser window is 992px and above. 
