@@ -4,9 +4,9 @@ Coding assignment 1: https://jovanhuang.github.io/Menu-Page/module2-solution/
 Coding assignment 2: https://jovanhuang.github.io/Menu-Page/module3-solution/
 
 ## Guidelines for Coding Assignment 1:
-You must implement the following breakpoints that will be considered desktop, tablet, and mobile. 
-
-1. The browser should display a desktop version of the site when the width of the browser window is 992px and above. 
+>You must implement the following breakpoints that will be considered desktop, tablet, and mobile. 
+>
+>1. The browser should display a desktop version of the site when the width of the browser window is 992px and above. 
 
 2. Tablet view should appear only if the width of the browser window is between 768px and 991px, inclusively. 
 
