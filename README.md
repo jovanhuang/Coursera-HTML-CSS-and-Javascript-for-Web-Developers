@@ -3,6 +3,8 @@ Coding assignment 1: https://jovanhuang.github.io/Menu-Page/module2-solution/
 
 Coding assignment 2: https://jovanhuang.github.io/Menu-Page/module3-solution/
 
+Coding assignment 3: https://jovanhuang.github.io/Menu-Page/module4-solution/
+
 ## Guidelines for Coding Assignment 1:
 >You must implement the following breakpoints that will be considered desktop, tablet, and mobile. 
 >
