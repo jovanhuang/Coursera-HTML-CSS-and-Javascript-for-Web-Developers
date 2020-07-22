@@ -5,7 +5,7 @@ Coding assignment (module 3): https://jovanhuang.github.io/Menu-Page/module3-sol
 
 Coding assignment (module 4): https://jovanhuang.github.io/Menu-Page/module4-solution/ (use google chrome to open this then right click on the webpage. Select inspect and click on console to see the output.)
 
-Coding assignment (module 5): https://jovanhuang.github.io/Menu-Page/module5-solution/
+Coding assignment (module 5): https://jovanhuang.github.io/Menu-Page/module5-solution/ (every time you clicked on the "Specials" Menu, it will return a random menu)
 
 ## Guidelines for Coding Assignment (module 2):
 >You must implement the following breakpoints that will be considered desktop, tablet, and mobile. 
@@ -69,3 +69,7 @@ Coding assignment (module 5): https://jovanhuang.github.io/Menu-Page/module5-sol
 ## Guidelines for Coding Assignment (module 4):
 > **Summary:**  
 >In this assignment, you are going to loop over an array of names and print out either a hello or goodbye to that name to the browser >console. If the name starts with a letter j or J, you are to print out Goodbye JSomeName. If the name starts with any other letter, you >are to print out Hello SomeName.
+>
+## Guidelines for Coding Assignment (module 4):
+> **Summary:**  
+>In this assignment, we are going to have a bit of fun with our built restaurant web application. The front page of our web app contains 3 clickable tiles: Menu, Specials, and Map. If you click on the Specials tile, you will be taken to a single category page where all the menu items that belong to the Specials menu category will be shown. Your task in this assignment is to alter this behavior such that when the user clicks on the Specials tile, the web app takes the user to a random single category menu page, listing menu items in the category, be it "Lunch", "Dinner", "Sushi", etc. That way, any random category can become the Specials! What fun! (not! :-) )
