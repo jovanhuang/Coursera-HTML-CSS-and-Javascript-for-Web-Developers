@@ -7,6 +7,8 @@ Coding assignment (module 4): https://jovanhuang.github.io/Menu-Page/module4-sol
 
 Coding assignment (module 5): https://jovanhuang.github.io/Menu-Page/module5-solution/ (every time you clicked on the "Specials" Menu, it will return a random menu)
 
+Check out more details about the assignments' requirements above here: https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/assignments
+
 ## Guidelines for Coding Assignment (module 2):
 >You must implement the following breakpoints that will be considered desktop, tablet, and mobile. 
 >
