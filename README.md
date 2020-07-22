@@ -5,6 +5,8 @@ Coding assignment (module 3): https://jovanhuang.github.io/Menu-Page/module3-sol
 
 Coding assignment (module 4): https://jovanhuang.github.io/Menu-Page/module4-solution/ (use google chrome to open this then right click on the webpage. Select inspect and click on console to see the output.)
 
+Coding assignment (module 5): https://jovanhuang.github.io/Menu-Page/module5-solution/
+
 ## Guidelines for Coding Assignment (module 2):
 >You must implement the following breakpoints that will be considered desktop, tablet, and mobile. 
 >
